@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Amr Hassan
-- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 
 
